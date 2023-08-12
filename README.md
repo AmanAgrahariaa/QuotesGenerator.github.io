@@ -1,6 +1,6 @@
 # Quotes Generator
 
-![Project Preview](screenshot.png)
+![Project Preview](images/ss.png.png)
 
 The Quotes Generator is a simple web application that displays random inspirational quotes. It allows users to click a button to fetch a new quote and also provides an option to share the quote on Twitter. The project is built using HTML, CSS, and JavaScript, and it utilizes the Type.fit API to fetch the quotes.
 
@@ -14,11 +14,6 @@ The Quotes Generator is a simple web application that displays random inspiratio
 ## Live Demo
 
 You can check out the live demo of the Quotes Generator [here](https://your-demo-url.com).
-
-## Screenshots
-
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
 
 ## Installation and Usage
 
@@ -47,7 +42,7 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ## Acknowledgements
 
-Special thanks to [Your Name] for inspiration and guidance throughout the development of this project.
+Special thanks to [Aman Agrahari] for inspiration and guidance throughout the development of this project.
 
 ---
 
