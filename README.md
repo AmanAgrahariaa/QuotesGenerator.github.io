@@ -1,6 +1,6 @@
 # Quotes Generator
 
-![Project Preview](images/ss.png.png)
+![Project Preview](images/ss.png)
 
 The Quotes Generator is a simple web application that displays random inspirational quotes. It allows users to click a button to fetch a new quote and also provides an option to share the quote on Twitter. The project is built using HTML, CSS, and JavaScript, and it utilizes the Type.fit API to fetch the quotes.
 
