@@ -36,10 +36,6 @@ You can check out the live demo of the Quotes Generator [here](https://your-demo
 
 Quotes provided by [Type.fit API](https://type.fit/api/quotes).
 
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify the code as per your needs.
-
 ## Acknowledgements
 
 Special thanks to [Aman Agrahari] for inspiration and guidance throughout the development of this project.
